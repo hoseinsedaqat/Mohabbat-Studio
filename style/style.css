@@ -200,3 +200,11 @@ ul {
 .contact-container div:nth-child(6) i, h4 {
     padding: 0.5rem 1.3rem;
 }
+
+/* for landscape Mode */
+
+@media (max-height:678px) {
+    .contact-container {
+        height: 100%;
+    }
+}
