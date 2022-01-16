@@ -2,7 +2,7 @@
 create a static website for mohabbat Studio Company
 
 this Project is active in below link:
-* https://hsedaqat1378.github.io/Mohabbat-Studio/
+* https://ho3einsedaqat.github.io/Mohabbat-Studio/
 
 Technology use this Project : Html 5 - Css 3 (Grid & FlexBox) - Font Awesome - Google font Api
 
